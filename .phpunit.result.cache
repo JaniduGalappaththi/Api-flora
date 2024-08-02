@@ -1,0 +1,1 @@
+{"version":1,"defects":{"RegistrationTest::testUserAlreadyExists":8,"RegistrationTest::testPasswordMismatch":8,"RegistrationTest::testSuccessfulRegistration":8,"OrderTest::testFetchOrders":8},"times":[]}
